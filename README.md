@@ -35,7 +35,7 @@ node server.js
 The backend server will run at `http://localhost:3000`.
 
 #### Step 2: Launch the Flutter Application
-Open a second terminal window in the project root directory (`c:\Users\vinay\health2\health`) and choose your target platform:
+Open a second terminal window in the project root directory (`c:\Users\tanmay\health2\health`) and choose your target platform:
 
 * **Web Server (Recommended - Open in any browser):**
   ```powershell

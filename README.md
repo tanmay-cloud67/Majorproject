@@ -13,7 +13,7 @@ Run the included automated launch script from PowerShell or CMD:
 ```powershell
 .\run.ps1
 ```
-*(or double-click [`run.bat`](file:///c:/Users/vinay/health2/health/run.bat) in File Explorer)*
+*(or double-click [`run.bat`](file:///c:/Users/tanmay/health2/health/run.bat) in File Explorer)*
 
 This script automatically:
 1. Starts the Node.js backend server on port `3000`.

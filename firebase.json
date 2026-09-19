@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "health-tracker-b63aa",
+          "appId": "1:248401716582:android:417f4015583a230b2294a7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "health-tracker-b63aa",
+          "configurations": {
+            "android": "1:248401716582:android:417f4015583a230b2294a7",
+            "ios": "1:248401716582:ios:6e420b4ac2d03b1c2294a7",
+            "macos": "1:248401716582:ios:6e420b4ac2d03b1c2294a7",
+            "web": "1:248401716582:web:0f77c262e93707db2294a7",
+            "windows": "1:248401716582:web:c4be7cf08481ca7d2294a7"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
